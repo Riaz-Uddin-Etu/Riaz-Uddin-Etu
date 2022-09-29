@@ -6,12 +6,12 @@ I'm an Economics student. Department of Economics & Banking of <a href="https://
 <div align=center>
 <h3>I've interested in:</h3>
 
-1.Econometrics. </br>
-2.Statistics. </br>
-3.Data Analysis. </br>
-4.Economics. </br>
+Econometrics. </br>
+Statistics. </br>
+Data Analysis. </br>
+Economics. </br>
 & </br>
-5.DATA SCIENCE. </br>
+DATA SCIENCE. </br>
 
 </div>
 
