@@ -1,17 +1,19 @@
 <div align=center>
 Hi, I’m Riaz Uddin Etu
 
-I'm an Economics student. Department of Economics & Banking of <a href="https://www.iiuc.ac.bd/">International Islamic University Chittagong.</a>
+The study of data science is a passion of mine.
+The data science field fascinates me.
 
 <div align=center>
 <h3>I've interested in:</h3>
 
-Econometrics. </br>
 Statistics. </br>
-Data Analysis. </br>
+Econometrics. </br>
+Machine learning. </br>
 Economics. </br>
+Data Analysis. </br>
 & </br>
-DATA SCIENCE. </br>
+<span style="color: green">DATA SCIENCE.</span>
 
 </div>
 
