@@ -1,11 +1,11 @@
 <div align=center>
-Hi, I’m Riaz Uddin Etu
+Hi, I am Riaz Uddin Etu
 
 The study of data science is a passion of mine.
 The data science field fascinates me.
 
 <div align=center>
-<h3>I've interested in:</h3>
+<h3>I am interested in:</h3>
 
 Statistics. </br>
 Econometrics. </br>
